@@ -1,15 +1,32 @@
+# install:
+# 	pip install --upgrade pip &&\
+# 		pip install -r requirements.txt
+
+# test:
+# 	echo "configuring and there is just a placeholder function"
+# 	# python -m pytest -vv test_*.py
+
+# format:	
+# 	black *.py dblib/*py
+
+# lint:
+# 	pylint --disable=R,C --ignore-patterns=test_.*?py *.py dblib
+
+# all: install lint test
 install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
 
 test:
-	echo "configuring and there is just a placeholder function"
-	# python -m pytest -vv test_*.py
+	echo "Not implemented yet"
+	#python -m pytest -vv test_*.py
 
 format:	
-	black *.py dblib/*py
+	black *.py awstools/*.py
 
 lint:
-	pylint --disable=R,C --ignore-patterns=test_.*?py *.py dblib
+	pylint --disable=R,C --ignore-patterns=test_.*?py *.py awstools/*.py
+
+refactor: format lint
 
 all: install lint test
