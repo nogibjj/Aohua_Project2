@@ -6,5 +6,6 @@ The basic structure of this CLI is that we write the bash script for data prepar
 
 ## test configuration
 build docker image ```docker build . -t oliverzhanga(dockerhub username)/docker_image_name```  
+push to dockerhub ```docker push oliverzhanga(dockerhub username)/docker_image_name```  
 test locally : use ```docker image ls``` to find image ID, ```docker run -it imageID /bin/bash main.sh args```  
 test in cloud : Login to Docker Hub using ```docker login -u oliverzhanga``` or through adding secrets, then ```docker run -it dockerhub_username/imageID:latest /bin/bash main.sh args```  
