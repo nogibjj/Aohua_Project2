@@ -1,0 +1,398 @@
+col2:2020 col4:FT col5:Machine Learning Scientist col6:260000 col7:USD col8:260000 col9:JP
+col2:2020 col4:FT col5:Product Data Analyst col6:20000 col7:USD col8:20000 col9:HN
+col2:2020 col4:FT col5:Machine Learning Engineer col6:150000 col7:USD col8:150000 col9:US
+col2:2020 col4:FT col5:Data Analyst col6:72000 col7:USD col8:72000 col9:US
+col2:2020 col4:FT col5:Lead Data Scientist col6:190000 col7:USD col8:190000 col9:US
+col2:2020 col4:FT col5:Business Data Analyst col6:135000 col7:USD col8:135000 col9:US
+col2:2020 col4:FT col5:Lead Data Engineer col6:125000 col7:USD col8:125000 col9:NZ
+col2:2020 col4:FT col5:Lead Data Analyst col6:87000 col7:USD col8:87000 col9:US
+col2:2020 col4:FT col5:Data Analyst col6:85000 col7:USD col8:85000 col9:US
+col2:2020 col4:FT col5:Data Analyst col6:8000 col7:USD col8:8000 col9:PK
+col2:2020 col4:FT col5:Lead Data Engineer col6:56000 col7:USD col8:56000 col9:PT
+col2:2020 col4:FT col5:BI Data Analyst col6:98000 col7:USD col8:98000 col9:US
+col2:2020 col4:FT col5:Lead Data Scientist col6:115000 col7:USD col8:115000 col9:AE
+col2:2020 col4:FT col5:Director of Data Science col6:325000 col7:USD col8:325000 col9:US
+col2:2020 col4:FT col5:Research Scientist col6:42000 col7:USD col8:42000 col9:NL
+col2:2020 col4:CT col5:Business Data Analyst col6:100000 col7:USD col8:100000 col9:US
+col2:2020 col4:FT col5:Big Data Engineer col6:70000 col7:USD col8:70000 col9:US
+col2:2020 col4:FT col5:Research Scientist col6:450000 col7:USD col8:450000 col9:US
+col2:2020 col4:FT col5:Data Science Consultant col6:103000 col7:USD col8:103000 col9:US
+col2:2020 col4:FT col5:Machine Learning Engineer col6:250000 col7:USD col8:250000 col9:US
+col2:2020 col4:FT col5:Data Analyst col6:10000 col7:USD col8:10000 col9:NG
+col2:2020 col4:FT col5:Machine Learning Engineer col6:138000 col7:USD col8:138000 col9:US
+col2:2020 col4:FT col5:Data Scientist col6:45760 col7:USD col8:45760 col9:PH
+col2:2020 col4:FT col5:Data Engineer col6:106000 col7:USD col8:106000 col9:US
+col2:2020 col4:FT col5:Data Engineer col6:188000 col7:USD col8:188000 col9:US
+col2:2020 col4:FT col5:Data Scientist col6:105000 col7:USD col8:105000 col9:US
+col2:2020 col4:FT col5:Data Analyst col6:91000 col7:USD col8:91000 col9:US
+col2:2020 col4:FL col5:Computer Vision Engineer col6:60000 col7:USD col8:60000 col9:RU
+col2:2020 col4:FT col5:Data Scientist col6:118000 col7:USD col8:118000 col9:US
+col2:2020 col4:FT col5:Data Scientist col6:120000 col7:USD col8:120000 col9:US
+col2:2020 col4:FT col5:Data Scientist col6:138350 col7:USD col8:138350 col9:US
+col2:2020 col4:FT col5:Data Engineer col6:110000 col7:USD col8:110000 col9:US
+col2:2020 col4:FT col5:Data Engineer col6:130800 col7:USD col8:130800 col9:ES
+col2:2020 col4:FT col5:Data Scientist col6:412000 col7:USD col8:412000 col9:US
+col2:2020 col4:FT col5:Data Science Manager col6:190200 col7:USD col8:190200 col9:US
+col2:2020 col4:FT col5:Data Scientist col6:105000 col7:USD col8:105000 col9:US
+col2:2021 col4:FT col5:BI Data Analyst col6:150000 col7:USD col8:150000 col9:IN
+col2:2021 col4:FT col5:Head of Data col6:235000 col7:USD col8:235000 col9:US
+col2:2021 col4:FT col5:BI Data Analyst col6:100000 col7:USD col8:100000 col9:US
+col2:2021 col4:CT col5:ML Engineer col6:270000 col7:USD col8:270000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:80000 col7:USD col8:80000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:140000 col7:USD col8:140000 col9:US
+col2:2021 col4:FT col5:Data Analytics Engineer col6:110000 col7:USD col8:110000 col9:US
+col2:2021 col4:FT col5:Lead Data Analyst col6:170000 col7:USD col8:170000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:80000 col7:USD col8:80000 col9:BG
+col2:2021 col4:FT col5:Lead Data Engineer col6:276000 col7:USD col8:276000 col9:US
+col2:2021 col4:PT col5:AI Scientist col6:12000 col7:USD col8:12000 col9:BR
+col2:2021 col4:FT col5:Financial Data Analyst col6:450000 col7:USD col8:450000 col9:US
+col2:2021 col4:FT col5:Computer Vision Software Engineer col6:70000 col7:USD col8:70000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:75000 col7:USD col8:75000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:150000 col7:USD col8:150000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:62000 col7:USD col8:62000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:73000 col7:USD col8:73000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:115000 col7:USD col8:115000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:150000 col7:USD col8:150000 col9:US
+col2:2021 col4:PT col5:AI Scientist col6:12000 col7:USD col8:12000 col9:PK
+col2:2021 col4:FT col5:Machine Learning Scientist col6:225000 col7:USD col8:225000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:50000 col7:USD col8:50000 col9:NG
+col2:2021 col4:FT col5:Data Analyst col6:90000 col7:USD col8:90000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:200000 col7:USD col8:200000 col9:US
+col2:2021 col4:FT col5:Big Data Engineer col6:60000 col7:USD col8:60000 col9:ES
+col2:2021 col4:FT col5:Principal Data Engineer col6:200000 col7:USD col8:200000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:50000 col7:USD col8:50000 col9:US
+col2:2021 col4:FT col5:Principal Data Scientist col6:151000 col7:USD col8:151000 col9:US
+col2:2021 col4:FT col5:Machine Learning Scientist col6:120000 col7:USD col8:120000 col9:US
+col2:2021 col4:FT col5:Machine Learning Engineer col6:20000 col7:USD col8:20000 col9:IN
+col2:2021 col4:FT col5:Machine Learning Developer col6:100000 col7:USD col8:100000 col9:IQ
+col2:2021 col4:FT col5:Applied Machine Learning Scientist col6:38400 col7:USD col8:38400 col9:VN
+col2:2021 col4:FT col5:Computer Vision Engineer col6:24000 col7:USD col8:24000 col9:BR
+col2:2021 col4:FT col5:Data Scientist col6:100000 col7:USD col8:100000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:90000 col7:USD col8:90000 col9:US
+col2:2021 col4:FT col5:Principal Data Scientist col6:220000 col7:USD col8:220000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:80000 col7:USD col8:80000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:135000 col7:USD col8:135000 col9:US
+col2:2021 col4:FT col5:Data Science Manager col6:240000 col7:USD col8:240000 col9:US
+col2:2021 col4:FT col5:Data Engineering Manager col6:150000 col7:USD col8:150000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:82500 col7:USD col8:82500 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:100000 col7:USD col8:100000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:90000 col7:USD col8:90000 col9:US
+col2:2021 col4:FT col5:Data Engineering Manager col6:153000 col7:USD col8:153000 col9:US
+col2:2021 col4:FT col5:Cloud Data Engineer col6:160000 col7:USD col8:160000 col9:BR
+col2:2021 col4:FT col5:Director of Data Science col6:168000 col7:USD col8:168000 col9:JP
+col2:2021 col4:FT col5:Data Scientist col6:150000 col7:USD col8:150000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:13400 col7:USD col8:13400 col9:UA
+col2:2021 col4:FT col5:Data Science Manager col6:144000 col7:USD col8:144000 col9:US
+col2:2021 col4:FT col5:Applied Machine Learning Scientist col6:423000 col7:USD col8:423000 col9:US
+col2:2021 col4:FT col5:Data Analytics Manager col6:120000 col7:USD col8:120000 col9:US
+col2:2021 col4:FT col5:Machine Learning Engineer col6:125000 col7:USD col8:125000 col9:US
+col2:2021 col4:FT col5:Head of Data col6:230000 col7:USD col8:230000 col9:RU
+col2:2021 col4:FT col5:Head of Data Science col6:85000 col7:USD col8:85000 col9:RU
+col2:2021 col4:FT col5:Data Specialist col6:165000 col7:USD col8:165000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:80000 col7:USD col8:80000 col9:US
+col2:2021 col4:FT col5:Director of Data Science col6:250000 col7:USD col8:250000 col9:US
+col2:2021 col4:FT col5:BI Data Analyst col6:55000 col7:USD col8:55000 col9:US
+col2:2021 col4:FT col5:Data Architect col6:150000 col7:USD col8:150000 col9:US
+col2:2021 col4:FT col5:Data Architect col6:170000 col7:USD col8:170000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:60000 col7:USD col8:60000 col9:US
+col2:2021 col4:FT col5:Principal Data Scientist col6:235000 col7:USD col8:235000 col9:US
+col2:2021 col4:FT col5:Data Engineering Manager col6:174000 col7:USD col8:174000 col9:US
+col2:2021 col4:FT col5:Machine Learning Engineer col6:81000 col7:USD col8:81000 col9:US
+col2:2021 col4:FL col5:Machine Learning Scientist col6:12000 col7:USD col8:12000 col9:PK
+col2:2021 col4:FT col5:Data Engineer col6:4000 col7:USD col8:4000 col9:IR
+col2:2021 col4:FT col5:Data Analytics Engineer col6:50000 col7:USD col8:50000 col9:VN
+col2:2021 col4:FT col5:Machine Learning Engineer col6:74000 col7:USD col8:74000 col9:JP
+col2:2021 col4:FT col5:Data Science Manager col6:152000 col7:USD col8:152000 col9:US
+col2:2021 col4:FT col5:Machine Learning Engineer col6:21844 col7:USD col8:21844 col9:CO
+col2:2021 col4:FT col5:Big Data Engineer col6:18000 col7:USD col8:18000 col9:MD
+col2:2021 col4:FT col5:Data Science Manager col6:174000 col7:USD col8:174000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:147000 col7:USD col8:147000 col9:US
+col2:2021 col4:FT col5:BI Data Analyst col6:9272 col7:USD col8:9272 col9:KE
+col2:2021 col4:FT col5:Data Science Consultant col6:90000 col7:USD col8:90000 col9:US
+col2:2021 col4:FT col5:Machine Learning Infrastructure Engineer col6:195000 col7:USD col8:195000 col9:US
+col2:2021 col4:FT col5:Research Scientist col6:50000 col7:USD col8:50000 col9:FR
+col2:2021 col4:FT col5:Data Scientist col6:160000 col7:USD col8:160000 col9:US
+col2:2021 col4:FT col5:Machine Learning Engineer col6:200000 col7:USD col8:200000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:165000 col7:USD col8:165000 col9:US
+col2:2021 col4:FL col5:Data Engineer col6:20000 col7:USD col8:20000 col9:IT
+col2:2021 col4:FT col5:Data Analytics Manager col6:120000 col7:USD col8:120000 col9:US
+col2:2021 col4:FT col5:Principal Data Engineer col6:185000 col7:USD col8:185000 col9:US
+col2:2021 col4:FT col5:Data Analytics Manager col6:140000 col7:USD col8:140000 col9:US
+col2:2021 col4:FT col5:Machine Learning Scientist col6:225000 col7:USD col8:225000 col9:US
+col2:2021 col4:CT col5:Principal Data Scientist col6:416000 col7:USD col8:416000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:135000 col7:USD col8:135000 col9:US
+col2:2021 col4:FT col5:ML Engineer col6:256000 col7:USD col8:256000 col9:US
+col2:2021 col4:FT col5:Director of Data Engineering col6:200000 col7:USD col8:200000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:200000 col7:USD col8:200000 col9:US
+col2:2021 col4:FT col5:Data Architect col6:180000 col7:USD col8:180000 col9:US
+col2:2021 col4:FT col5:Head of Data Science col6:110000 col7:USD col8:110000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:4000 col7:USD col8:4000 col9:VN
+col2:2021 col4:FT col5:Data Analyst col6:80000 col7:USD col8:80000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:110000 col7:USD col8:110000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:165000 col7:USD col8:165000 col9:US
+col2:2021 col4:FT col5:Principal Data Analyst col6:170000 col7:USD col8:170000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:115000 col7:USD col8:115000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:90000 col7:USD col8:90000 col9:US
+col2:2021 col4:FT col5:Principal Data Engineer col6:600000 col7:USD col8:600000 col9:US
+col2:2021 col4:FT col5:Data Analyst col6:93000 col7:USD col8:93000 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:200000 col7:USD col8:200000 col9:US
+col2:2021 col4:FT col5:Machine Learning Engineer col6:185000 col7:USD col8:185000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:130000 col7:USD col8:130000 col9:US
+col2:2021 col4:FT col5:Lead Data Engineer col6:160000 col7:USD col8:160000 col9:PR
+col2:2021 col4:FT col5:Data Engineer col6:93150 col7:USD col8:93150 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:111775 col7:USD col8:111775 col9:US
+col2:2021 col4:FT col5:Data Engineer col6:72500 col7:USD col8:72500 col9:US
+col2:2021 col4:FT col5:Machine Learning Engineer col6:85000 col7:USD col8:85000 col9:NL
+col2:2021 col4:FT col5:Data Scientist col6:100000 col7:USD col8:100000 col9:US
+col2:2021 col4:FT col5:Data Scientist col6:58000 col7:USD col8:58000 col9:US
+col2:2021 col4:FT col5:AI Scientist col6:55000 col7:USD col8:55000 col9:ES
+col2:2021 col4:FT col5:Data Engineer col6:112000 col7:USD col8:112000 col9:US
+col2:2021 col4:FT col5:Research Scientist col6:100000 col7:USD col8:100000 col9:JE
+col2:2021 col4:CT col5:Staff Data Scientist col6:105000 col7:USD col8:105000 col9:US
+col2:2021 col4:FT col5:Research Scientist col6:69999 col7:USD col8:69999 col9:CZ
+col2:2021 col4:FT col5:Data Scientist col6:109000 col7:USD col8:109000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:135000 col7:USD col8:135000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:155000 col7:USD col8:155000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:120600 col7:USD col8:120600 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:130000 col7:USD col8:130000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:90000 col7:USD col8:90000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:170000 col7:USD col8:170000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:150000 col7:USD col8:150000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:102100 col7:USD col8:102100 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:84900 col7:USD col8:84900 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:136620 col7:USD col8:136620 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:99360 col7:USD col8:99360 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:146000 col7:USD col8:146000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:123000 col7:USD col8:123000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:99000 col7:USD col8:99000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:116000 col7:USD col8:116000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:106260 col7:USD col8:106260 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:126500 col7:USD col8:126500 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:242000 col7:USD col8:242000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:200000 col7:USD col8:200000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:165220 col7:USD col8:165220 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:120160 col7:USD col8:120160 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:90320 col7:USD col8:90320 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:181940 col7:USD col8:181940 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:132320 col7:USD col8:132320 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:220110 col7:USD col8:220110 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:160080 col7:USD col8:160080 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:180000 col7:USD col8:180000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:120000 col7:USD col8:120000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:124190 col7:USD col8:124190 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:130000 col7:USD col8:130000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:110000 col7:USD col8:110000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:170000 col7:USD col8:170000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:115500 col7:USD col8:115500 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:112900 col7:USD col8:112900 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:90320 col7:USD col8:90320 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:112900 col7:USD col8:112900 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:90320 col7:USD col8:90320 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:165400 col7:USD col8:165400 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:132320 col7:USD col8:132320 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:167000 col7:USD col8:167000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:243900 col7:USD col8:243900 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:136600 col7:USD col8:136600 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:109280 col7:USD col8:109280 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:128875 col7:USD col8:128875 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:93700 col7:USD col8:93700 col9:US
+col2:2022 col4:FT col5:Head of Data Science col6:224000 col7:USD col8:224000 col9:US
+col2:2022 col4:FT col5:Head of Data Science col6:167875 col7:USD col8:167875 col9:US
+col2:2022 col4:FT col5:Analytics Engineer col6:175000 col7:USD col8:175000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:156600 col7:USD col8:156600 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:108800 col7:USD col8:108800 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:95550 col7:USD col8:95550 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:113000 col7:USD col8:113000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:135000 col7:USD col8:135000 col9:US
+col2:2022 col4:FT col5:Data Science Manager col6:161342 col7:USD col8:161342 col9:US
+col2:2022 col4:FT col5:Data Science Manager col6:137141 col7:USD col8:137141 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:167000 col7:USD col8:167000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:123000 col7:USD col8:123000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:150000 col7:USD col8:150000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:211500 col7:USD col8:211500 col9:US
+col2:2022 col4:FT col5:Data Architect col6:192400 col7:USD col8:192400 col9:CA
+col2:2022 col4:FT col5:Data Architect col6:90700 col7:USD col8:90700 col9:CA
+col2:2022 col4:FT col5:Data Analyst col6:130000 col7:USD col8:130000 col9:CA
+col2:2022 col4:FT col5:Data Analyst col6:61300 col7:USD col8:61300 col9:CA
+col2:2022 col4:FT col5:Data Analyst col6:130000 col7:USD col8:130000 col9:CA
+col2:2022 col4:FT col5:Data Analyst col6:61300 col7:USD col8:61300 col9:CA
+col2:2022 col4:FT col5:Data Engineer col6:160000 col7:USD col8:160000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:138600 col7:USD col8:138600 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:136000 col7:USD col8:136000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:58000 col7:USD col8:58000 col9:US
+col2:2022 col4:FT col5:Analytics Engineer col6:135000 col7:USD col8:135000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:170000 col7:USD col8:170000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:123000 col7:USD col8:123000 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:189650 col7:USD col8:189650 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:164996 col7:USD col8:164996 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:132000 col7:USD col8:132000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:165400 col7:USD col8:165400 col9:US
+col2:2022 col4:FT col5:Data Architect col6:208775 col7:USD col8:208775 col9:US
+col2:2022 col4:FT col5:Data Architect col6:147800 col7:USD col8:147800 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:136994 col7:USD col8:136994 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:101570 col7:USD col8:101570 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:128875 col7:USD col8:128875 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:93700 col7:USD col8:93700 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:132320 col7:USD col8:132320 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:164000 col7:USD col8:164000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:155000 col7:USD col8:155000 col9:US
+col2:2022 col4:FT col5:AI Scientist col6:120000 col7:USD col8:120000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:112900 col7:USD col8:112900 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:90320 col7:USD col8:90320 col9:US
+col2:2022 col4:FT col5:Data Analytics Manager col6:145000 col7:USD col8:145000 col9:US
+col2:2022 col4:FT col5:Data Analytics Manager col6:105400 col7:USD col8:105400 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:215300 col7:USD col8:215300 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:158200 col7:USD col8:158200 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:209100 col7:USD col8:209100 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:154600 col7:USD col8:154600 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:115934 col7:USD col8:115934 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:81666 col7:USD col8:81666 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:175000 col7:USD col8:175000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:58000 col7:USD col8:58000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:183600 col7:USD col8:183600 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:180000 col7:USD col8:180000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:260000 col7:USD col8:260000 col9:US
+col2:2022 col4:FT col5:Data Science Engineer col6:60000 col7:USD col8:60000 col9:AR
+col2:2022 col4:FT col5:Data Engineer col6:63900 col7:USD col8:63900 col9:US
+col2:2022 col4:FT col5:Machine Learning Scientist col6:160000 col7:USD col8:160000 col9:US
+col2:2022 col4:FT col5:Machine Learning Scientist col6:112300 col7:USD col8:112300 col9:US
+col2:2022 col4:FT col5:Data Science Manager col6:241000 col7:USD col8:241000 col9:US
+col2:2022 col4:FT col5:Data Science Manager col6:159000 col7:USD col8:159000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:180000 col7:USD col8:180000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:80000 col7:USD col8:80000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:82900 col7:USD col8:82900 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:100800 col7:USD col8:100800 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140400 col7:USD col8:140400 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:189650 col7:USD col8:189650 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:164996 col7:USD col8:164996 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:215300 col7:USD col8:215300 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:209100 col7:USD col8:209100 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:154600 col7:USD col8:154600 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:180000 col7:USD col8:180000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:80000 col7:USD col8:80000 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:120000 col7:USD col8:120000 col9:US
+col2:2022 col4:FT col5:Computer Vision Engineer col6:125000 col7:USD col8:125000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:105000 col7:USD col8:105000 col9:US
+col2:2022 col4:FT col5:Financial Data Analyst col6:100000 col7:USD col8:100000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:120000 col7:USD col8:120000 col9:US
+col2:2022 col4:FT col5:Research Scientist col6:144000 col7:USD col8:144000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:104890 col7:USD col8:104890 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:100000 col7:USD col8:100000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140000 col7:USD col8:140000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:135000 col7:USD col8:135000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:50000 col7:USD col8:50000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:220000 col7:USD col8:220000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140000 col7:USD col8:140000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:185100 col7:USD col8:185100 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:220000 col7:USD col8:220000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:200000 col7:USD col8:200000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:120000 col7:USD col8:120000 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:120000 col7:USD col8:120000 col9:AE
+col2:2022 col4:FT col5:Machine Learning Engineer col6:65000 col7:USD col8:65000 col9:AE
+col2:2022 col4:FT col5:Data Engineer col6:324000 col7:USD col8:324000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:216000 col7:USD col8:216000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:210000 col7:USD col8:210000 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:120000 col7:USD col8:120000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:230000 col7:USD col8:230000 col9:US
+col2:2022 col4:PT col5:Data Scientist col6:100000 col7:USD col8:100000 col9:DZ
+col2:2022 col4:FL col5:Data Scientist col6:100000 col7:USD col8:100000 col9:CA
+col2:2022 col4:FT col5:Head of Data col6:200000 col7:USD col8:200000 col9:MY
+col2:2022 col4:FT col5:Principal Data Analyst col6:75000 col7:USD col8:75000 col9:CA
+col2:2022 col4:FT col5:Data Scientist col6:100000 col7:USD col8:100000 col9:BR
+col2:2022 col4:FT col5:Machine Learning Scientist col6:153000 col7:USD col8:153000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:165000 col7:USD col8:165000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:40000 col7:USD col8:40000 col9:JP
+col2:2022 col4:FT col5:Data Engineer col6:115000 col7:USD col8:115000 col9:US
+col2:2022 col4:FT col5:Applied Machine Learning Scientist col6:75000 col7:USD col8:75000 col9:BO
+col2:2022 col4:FT col5:Research Scientist col6:120000 col7:USD col8:120000 col9:US
+col2:2022 col4:FT col5:Applied Data Scientist col6:157000 col7:USD col8:157000 col9:US
+col2:2022 col4:FT col5:Computer Vision Software Engineer col6:150000 col7:USD col8:150000 col9:AU
+col2:2022 col4:FT col5:Data Engineer col6:65000 col7:USD col8:65000 col9:US
+col2:2022 col4:FT col5:Data Analytics Engineer col6:20000 col7:USD col8:20000 col9:PK
+col2:2022 col4:FT col5:Data Scientist col6:48000 col7:USD col8:48000 col9:RU
+col2:2022 col4:FT col5:Data Science Manager col6:152500 col7:USD col8:152500 col9:US
+col2:2022 col4:FT col5:Applied Data Scientist col6:380000 col7:USD col8:380000 col9:US
+col2:2022 col4:FT col5:Computer Vision Engineer col6:10000 col7:USD col8:10000 col9:PT
+col2:2022 col4:FT col5:Data Analyst col6:20000 col7:USD col8:20000 col9:GR
+col2:2022 col4:FT col5:Data Analytics Lead col6:405000 col7:USD col8:405000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:135000 col7:USD col8:135000 col9:US
+col2:2022 col4:FT col5:Applied Data Scientist col6:177000 col7:USD col8:177000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:78000 col7:USD col8:78000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:135000 col7:USD col8:135000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:100000 col7:USD col8:100000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:90320 col7:USD col8:90320 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:85000 col7:USD col8:85000 col9:CA
+col2:2022 col4:FT col5:Data Analyst col6:75000 col7:USD col8:75000 col9:CA
+col2:2022 col4:FT col5:Machine Learning Engineer col6:214000 col7:USD col8:214000 col9:US
+col2:2022 col4:FT col5:Machine Learning Engineer col6:192600 col7:USD col8:192600 col9:US
+col2:2022 col4:FT col5:Data Architect col6:266400 col7:USD col8:266400 col9:US
+col2:2022 col4:FT col5:Data Architect col6:213120 col7:USD col8:213120 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:112900 col7:USD col8:112900 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:155000 col7:USD col8:155000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:141300 col7:USD col8:141300 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:102100 col7:USD col8:102100 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:115934 col7:USD col8:115934 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:81666 col7:USD col8:81666 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:206699 col7:USD col8:206699 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:99100 col7:USD col8:99100 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:130000 col7:USD col8:130000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:115000 col7:USD col8:115000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:110500 col7:USD col8:110500 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:130000 col7:USD col8:130000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:99050 col7:USD col8:99050 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:160000 col7:USD col8:160000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:205300 col7:USD col8:205300 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140400 col7:USD col8:140400 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:176000 col7:USD col8:176000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:144000 col7:USD col8:144000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:200100 col7:USD col8:200100 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:160000 col7:USD col8:160000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:145000 col7:USD col8:145000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:70500 col7:USD col8:70500 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:205300 col7:USD col8:205300 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140400 col7:USD col8:140400 col9:US
+col2:2022 col4:FT col5:Analytics Engineer col6:205300 col7:USD col8:205300 col9:US
+col2:2022 col4:FT col5:Analytics Engineer col6:184700 col7:USD col8:184700 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:175100 col7:USD col8:175100 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:140250 col7:USD col8:140250 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:116150 col7:USD col8:116150 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:54000 col7:USD col8:54000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:170000 col7:USD col8:170000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:80000 col7:USD col8:80000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140000 col7:USD col8:140000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:210000 col7:USD col8:210000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140000 col7:USD col8:140000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:100000 col7:USD col8:100000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:69000 col7:USD col8:69000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:210000 col7:USD col8:210000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140000 col7:USD col8:140000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:210000 col7:USD col8:210000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:150075 col7:USD col8:150075 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:100000 col7:USD col8:100000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:25000 col7:USD col8:25000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:126500 col7:USD col8:126500 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:106260 col7:USD col8:106260 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:220110 col7:USD col8:220110 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:160080 col7:USD col8:160080 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:105000 col7:USD col8:105000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:110925 col7:USD col8:110925 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:140000 col7:USD col8:140000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:99000 col7:USD col8:99000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:60000 col7:USD col8:60000 col9:US
+col2:2022 col4:FT col5:Data Architect col6:192564 col7:USD col8:192564 col9:US
+col2:2022 col4:FT col5:Data Architect col6:144854 col7:USD col8:144854 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:230000 col7:USD col8:230000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:150000 col7:USD col8:150000 col9:US
+col2:2022 col4:FT col5:Data Analytics Manager col6:150260 col7:USD col8:150260 col9:US
+col2:2022 col4:FT col5:Data Analytics Manager col6:109280 col7:USD col8:109280 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:210000 col7:USD col8:210000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:170000 col7:USD col8:170000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:160000 col7:USD col8:160000 col9:US
+col2:2022 col4:FT col5:Data Scientist col6:130000 col7:USD col8:130000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:67000 col7:USD col8:67000 col9:CA
+col2:2022 col4:FT col5:Data Analyst col6:52000 col7:USD col8:52000 col9:CA
+col2:2022 col4:FT col5:Data Engineer col6:154000 col7:USD col8:154000 col9:US
+col2:2022 col4:FT col5:Data Engineer col6:126000 col7:USD col8:126000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:129000 col7:USD col8:129000 col9:US
+col2:2022 col4:FT col5:Data Analyst col6:150000 col7:USD col8:150000 col9:US
+col2:2022 col4:FT col5:AI Scientist col6:200000 col7:USD col8:200000 col9:IN
